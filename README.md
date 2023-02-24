@@ -1,4 +1,4 @@
-<div align="center"><h1> Hi, i am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> Taha DERRADJI </h1> </div>
+<div align="center"><h1> Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/>, i am Taha DERRADJI </h1> </div>
 
 # About Me
 Currently pursuing a Master's Degree in Petroleum Engineering.  
