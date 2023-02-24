@@ -1,10 +1,8 @@
 <div align="center"><h1> Hi, i am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> Taha DERRADJI </h1> </div>
 # About Me
-##Currently pursuing a Master's Degree in Petroleum Engineering. 
-
-##Data Science enthusiast, interested in leveraging ML/AI to drive innovation in the O&G industry. 
-
-##Software Engineering ALXAfrica.
+Currently pursuing a Master's Degree in Petroleum Engineering. 
+Data Science enthusiast, interested in leveraging ML/AI to drive innovation in the O&G industry. 
+Software Engineering ALXAfrica.
 
 
 # Tech Stack
