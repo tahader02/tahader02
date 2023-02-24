@@ -3,7 +3,7 @@
 # About Me
 Currently pursuing a Master's Degree in Petroleum Engineering.  
 
-Data Science enthusiast, interested in leveraging ML/AI to drive innovation in the O&G industry.  
+Data Science enthusiast, interested in leveraging **ML/AI** to drive innovation in the **O&G industry**.  
 
 Software Engineering **_ALXAfrica_**.
 
