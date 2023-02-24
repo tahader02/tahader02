@@ -5,7 +5,7 @@ Currently pursuing a Master's Degree in Petroleum Engineering.
 
 Data Science enthusiast, interested in leveraging ML/AI to drive innovation in the O&G industry.  
 
-Software Engineering **ALXAfrica**.
+Software Engineering **_ALXAfrica_**.
 
 
 # Tech Stack
